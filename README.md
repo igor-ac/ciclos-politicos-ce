@@ -185,7 +185,7 @@ As visualizações foram geradas no **Flourish Studio**, com foco em:
 Este projeto é de uso **acadêmico e jornalístico**.  
 Reprodução de partes do código ou dos dados é permitida mediante citação:
 
-> *Cavalcante, Victor Igor A. “Ciclos Políticos do Ceará (1994–2024)”. MBA em Jornalismo de Dados — IDP, 2025.*
+> *CAVALCANTE, Victor Igor A.. Sob a sombra do poder: O que três décadas de urnas revelam sobre a força e a renovação dos grupos políticos que dominam o Ceará. Medium, 2025. Disponível em: https://medium.com/@victorigor.ac.*
 
 ---
 
@@ -193,5 +193,5 @@ Reprodução de partes do código ou dos dados é permitida mediante citação:
 
 **Igor Cavalcante**  
 Jornalista.
-📧 victorigor.ac@email.com  
-🔗 [linkedin.com/in/igor-cavalcante](#)
+📧 victorigor.ac@gmail.com  
+🔗 [linkedin.com/in/igor-cavalcante](linkedin.com/in/igor-cavalcante)
