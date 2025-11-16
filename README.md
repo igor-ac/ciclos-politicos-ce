@@ -185,7 +185,7 @@ As visualizações foram geradas no **Flourish Studio**, com foco em:
 Este projeto é de uso **acadêmico e jornalístico**.  
 Reprodução de partes do código ou dos dados é permitida mediante citação:
 
-> *CAVALCANTE, Victor Igor A.. Sob a sombra do poder: O que três décadas de urnas revelam sobre a força e a renovação dos grupos políticos que dominam o Ceará. Medium, 2025. Disponível em: https://medium.com/@victorigor.ac.*
+> *CAVALCANTE, Victor Igor A.. O que três décadas de urnas revelam sobre a força e a renovação dos grupos políticos que dominam o Ceará. Medium, 2025. Disponível em: https://medium.com/@victorigor.ac.*
 
 ---
 
