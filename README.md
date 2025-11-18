@@ -66,7 +66,7 @@ ciclos-politicos-ce/
 ```
 ¹ Por conta do tamanho, o arquivo já processado pode ser baixado [neste link](https://drive.google.com/file/d/1PT-RaOm3iwkSIWlOJDO9whCvQLrQMPQ4/view?usp=drive_link).
 
-² Tamnbém por conta do tamanho dos arquivos originais, as pastas precisam ser preenchidas com os arquivos disponíveis nos Dados Abertos do TSE para executar o notebook ´1. Processamento.ipynb´.
+² Também por conta do tamanho dos arquivos originais, as pastas precisam ser preenchidas com os arquivos disponíveis nos Dados Abertos do TSE para executar o notebook ´1. Processamento.ipynb´.
 
 ## Fonte de dados
 
