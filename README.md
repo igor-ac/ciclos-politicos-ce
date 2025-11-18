@@ -4,6 +4,7 @@
 **Curso:** MBA em Jornalismo de Dados — IDP  
 **Projeto:** Trabalho de Conclusão de Curso  
 **Tema:** Força e reconfiguração dos grupos políticos cearenses nas urnas  
+**Orientador:** Rodolfo Viana  
 
 ---
 
@@ -67,6 +68,21 @@ ciclos-politicos-ce/
 ¹ Por conta do tamanho, o arquivo já processado pode ser baixado [neste link](https://drive.google.com/file/d/1PT-RaOm3iwkSIWlOJDO9whCvQLrQMPQ4/view?usp=drive_link).
 
 ² Também por conta do tamanho dos arquivos originais, as pastas precisam ser preenchidas com os arquivos disponíveis nos Dados Abertos do TSE para executar o notebook ´1. Processamento.ipynb´.
+
+---
+
+## Repositório-irmão
+
+Toda a **reportagem e as visualizações** desenvolvidas a partir desta análise estão no repositório:
+
+https://github.com/igor-ac/web_ciclos_politicos
+
+Ambos os repositórios compõem o mesmo TCC.
+
+- **ciclos-politicos-ce** → análise de dados e código  
+- **web_ciclos_politicos** → visualização, narrativa e página pública  
+
+---
 
 ## Fonte de dados
 
@@ -185,7 +201,7 @@ As visualizações foram geradas no **Flourish Studio**, com foco em:
 Este projeto é de uso **acadêmico e jornalístico**.  
 Reprodução de partes do código ou dos dados é permitida mediante citação:
 
-> *CAVALCANTE, Victor Igor A.. O que três décadas de urnas revelam sobre a força e a renovação dos grupos políticos que dominam o Ceará. Medium, 2025. Disponível em: https://medium.com/@victorigor.ac.*
+> *CAVALCANTE, Victor Igor A.. O que três décadas de urnas revelam sobre a força e a renovação dos grupos políticos que dominam o Ceará. 2025. Disponível em: [https://github.com/igor-ac/](https://github.com/igor-ac/).*
 
 ---
 
